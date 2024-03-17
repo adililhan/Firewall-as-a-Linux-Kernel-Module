@@ -8,6 +8,13 @@
 
 **This repository was created for educational purposes. This repository may help you learn how to create a Linux Kernel Module, filter a network packet in the Kernel Module, and so on.**
 
+## Prerequisite
+
+Before diving into this repository, you should read these articles:
+
+ - [**Understanding Network Packets: IP Header, UDP Header**](https://adil.medium.com/understanding-network-packets-ip-header-udp-header-a672398553d0)
+ - [**How To Use IPTables to Block a Specific DNS Request?**](https://adil.medium.com/how-to-use-iptables-to-block-a-specific-dns-request-2dfb5ca7340b)
+
 ## # Who uses Netfilter?
 
 Netfilter is a framework provided by the Linux. On top of **netfilter** there are **iptables**, **nftables** and **ipvs** are being developed.
