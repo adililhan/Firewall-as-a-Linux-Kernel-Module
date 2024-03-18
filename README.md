@@ -14,6 +14,7 @@ Before diving into this repository, you should read these articles:
 
  - [**Understanding Network Packets: IP Header, UDP Header**](https://adil.medium.com/understanding-network-packets-ip-header-udp-header-a672398553d0)
  - [**How To Use IPTables to Block a Specific DNS Request?**](https://adil.medium.com/how-to-use-iptables-to-block-a-specific-dns-request-2dfb5ca7340b)
+ - [**How to Write a Simple Linux Kernel Module?**](https://adil.medium.com/how-to-write-a-simple-linux-kernel-module-bc3f981093b4)
 
 ## # Who uses Netfilter?
 
